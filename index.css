@@ -13,16 +13,17 @@ body {
 
 header {
   padding: 20px;
-  background-color: rgb(141, 188, 141);
+  background-color: rgb(235, 235, 69);
   font-size: 3rem;
   font-weight: 900;
+  text-shadow: 1px 1px black;
   color: white;
   border-radius: 10px;
   margin-top: 5px;
 }
 
 img {
-  width: 150px;
+  width: 500px;
   height: auto;
   margin: 20px auto;
   border-radius: 10%;
@@ -32,25 +33,29 @@ textarea {
   width: 70%;
   height: 20vh;
   padding: 10px;
+  margin-bottom: 20px;
 }
 
 #btn {
   width: 200px;
+
   padding: 10px;
-  background-color: rgb(141, 188, 141);
+  background-color: rgb(235, 235, 69);
   color: white;
   margin: 10px;
-  font-size: large;
+  font-size: 30px;
   border: rgb(201, 199, 199) solid 1px;
   cursor: pointer;
+  text-shadow: 1px 1px black;
 }
 #btn:hover {
-  background-color: rgb(19, 138, 19);
+  background-color: rgb(202, 202, 11);
 }
 
 .text {
   font-size: 40px;
   font-weight: bold;
+  padding: 10px;
 }
 
 #output-el {
@@ -66,7 +71,7 @@ textarea {
 footer {
   margin-top: 5vh;
   width: 100%;
-  background-color: rgb(141, 188, 141);
+  background-color: rgb(235, 235, 69);
   line-height: 5vh;
   color: white;
   border-radius: 10px;
@@ -85,4 +90,5 @@ footer p {
   margin: auto;
   font-size: 1.2rem;
   letter-spacing: 2px;
+  color: black;
 }

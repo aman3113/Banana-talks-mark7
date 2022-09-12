@@ -1,7 +1,7 @@
 var inputText = document.querySelector("#input-el");
 var btn = document.querySelector("#btn");
 var outputText = document.querySelector("#output-el");
-var url = "https://api.funtranslations.com/translate/groot.json";
+var url = "https://api.funtranslations.com/translate/minion.json";
 
 function getServerURL(text) {
   return encodeURI(url + "?text=" + text);
