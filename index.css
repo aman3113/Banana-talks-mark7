@@ -1,94 +1,94 @@
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
 
 body {
-  max-width: 85%;
-  margin: 0 auto;
-  background-color: aliceblue;
-  text-align: center;
+	max-width: 85%;
+	margin: 0 auto;
+	background-color: aliceblue;
+	text-align: center;
 }
 
 header {
-  padding: 20px;
-  background-color: rgb(235, 235, 69);
-  font-size: 3rem;
-  font-weight: 900;
-  text-shadow: 1px 1px black;
-  color: white;
-  border-radius: 10px;
-  margin-top: 5px;
+	padding: 25px;
+	background-color: rgb(235, 235, 69);
+	font-size: 3rem;
+	font-weight: 900;
+	text-shadow: 1px 1px black;
+	color: white;
+	border-radius: 10px;
+	margin-top: 5px;
 }
 
 img {
-  width: 50%;
-  height: auto;
-  margin: 20px auto;
-  border-radius: 10%;
+	width: 50%;
+	height: auto;
+	margin: 20px auto;
+	border-radius: 10%;
 }
 
 textarea {
-  width: 70%;
-  height: 20vh;
-  padding: 10px;
-  margin-bottom: 20px;
+	width: 70%;
+	height: 20vh;
+	padding: 10px;
+	margin-bottom: 20px;
 }
 
 #btn {
-  width: 200px;
+	width: 200px;
 
-  padding: 10px;
-  background-color: rgb(235, 235, 69);
-  color: white;
-  margin: 10px;
-  font-size: 30px;
-  border: rgb(201, 199, 199) solid 1px;
-  cursor: pointer;
-  text-shadow: 1px 1px black;
+	padding: 10px;
+	background-color: rgb(235, 235, 69);
+	color: white;
+	margin: 10px;
+	font-size: 30px;
+	border: rgb(201, 199, 199) solid 1px;
+	cursor: pointer;
+	text-shadow: 1px 1px black;
 }
 #btn:hover {
-  background-color: rgb(202, 202, 11);
+	background-color: rgb(202, 202, 11);
 }
 
 .text {
-  font-size: 40px;
-  font-weight: bold;
-  padding: 10px;
+	font-size: 40px;
+	font-weight: bold;
+	padding: 10px;
 }
 
 #output-el {
-  width: 70%;
-  height: 20vh;
-  border: 1px black solid;
-  background-color: white;
-  margin: 10px auto;
-  text-align: left;
-  padding: 10px;
+	width: 70%;
+	height: 20vh;
+	border: 1px black solid;
+	background-color: white;
+	margin: 10px auto;
+	text-align: left;
+	padding: 10px;
 }
 
 footer {
-  margin-top: 5vh;
-  width: 100%;
-  background-color: rgb(235, 235, 69);
-  line-height: 5vh;
-  color: white;
-  border-radius: 10px;
-  margin-bottom: 10px;
-  padding: 20px;
+	margin-top: 5vh;
+	width: 100%;
+	background-color: rgb(235, 235, 69);
+	line-height: 5vh;
+	color: white;
+	border-radius: 10px;
+	margin-bottom: 10px;
+	padding: 20px;
 }
 footer div {
-  margin-top: 1vh;
-  font-weight: 800;
-  font-size: 1.5rem;
-  letter-spacing: 2px;
-  color: black;
+	margin-top: 1vh;
+	font-weight: 800;
+	font-size: 1.5rem;
+	letter-spacing: 2px;
+	color: black;
 }
 footer p {
-  max-width: 80%;
-  margin: auto;
-  font-size: 1.2rem;
-  letter-spacing: 2px;
-  color: black;
+	max-width: 80%;
+	margin: auto;
+	font-size: 1.2rem;
+	letter-spacing: 2px;
+	color: black;
 }
